@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="8" failures="0" name="TestSuite" time="12.15" errors="0" skipped="0">
+  <properties>
+    <property name="jansi.mode" value="strip"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="18.0.2+9-61"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-18.0.2\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\SeleniumCopy\Selenium_WorkSpace_Copy\InterviewTestPOM"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CA"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\SeleniumCopy\Selenium_WorkSpace_Copy\InterviewTestPOM"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="18.0.2+9-61"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\jemis\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="classworlds.conf" value="C:\SeleniumCopy\Selenium_WorkSpace_Copy\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf13830931928282217033.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-18.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk-17.0.5/bin/server;C:/Program Files/Java/jdk-17.0.5/bin;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\db_home\WINDOWS.X64_193000_db_home\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Mongo DB Shell\mongosh-1.5.0-win32-x64\mongosh-1.5.0-win32-x64\bin;C:\Program Files\Java\jdk-17.0.5\bin;C:\apache-ant-1.10.12-bin\apache-ant-1.10.12\bin;C:\apache-maven-3.8.6-bin\apache-maven-3.8.6\bin;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;;C:\Program Files\Docker\Docker\resources\bin;D:\Scripts\;D:\;C:\Users\jemis\AppData\Local\Microsoft\WindowsApps;;C:\Users\jemis\AppData\Local\Programs\Microsoft VS Code\bin;D:\PyCharm Community Edition 2021.2.3\bin;;C:\Program Files\Azure Data Studio\bin;C:\WINDOWS\system32;;."/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="62.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\jemis"/>
+    <property name="user.timezone" value="America/Toronto"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="18"/>
+    <property name="user.name" value="jemis"/>
+    <property name="java.class.path" value="C:\Users\jemis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="18"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-18.0.2"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="18.0.2"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\SeleniumCopy\Selenium_WorkSpace_Copy\InterviewTestPOM\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2022-07-19"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.qa.INTest.Tests.ContextMenuTest" name="vldContextMenu" time="0.281"/>
+  <testcase classname="com.qa.INTest.Tests.DragAndDropTest" name="vldDragAndDropTest" time="0.276"/>
+  <testcase classname="com.qa.INTest.Tests.DropDownTest" name="vldDropDownTest" time="0.58"/>
+  <testcase classname="com.qa.INTest.Tests.DynamicContentTest" name="vldDynamicContentTest" time="0.153"/>
+  <testcase classname="com.qa.INTest.Tests.LoginFailureTest" name="vldLoginSuccess" time="0.216"/>
+  <testcase classname="com.qa.INTest.Tests.LoginSuccessTest" name="vldLoginSuccess" time="0.182"/>
+  <testcase classname="com.qa.INTest.Tests.CheckboxesTest" name="vldCheckedboxes" time="0.226"/>
+  <testcase classname="com.qa.INTest.Tests.CheckboxesTest" name="vldUnCheckedboxes" time="10.236"/>
+</testsuite>

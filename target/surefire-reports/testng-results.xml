@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-29T00:20:27Z" name="Command line suite" finished-at="2022-12-29T00:21:06Z" duration-ms="38488">
+    <groups>
+    </groups>
+    <test started-at="2022-12-29T00:20:27Z" name="Command line test" finished-at="2022-12-29T00:21:06Z" duration-ms="38488">
+      <class name="com.qa.INTest.Tests.LoginFailureTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.INTest.Tests.LoginFailureTest@13eb8acf]" started-at="2022-12-28T19:20:42Z" name="setup" finished-at="2022-12-28T19:20:44Z" duration-ms="2391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="vldLoginSuccess()[pri:0, instance:com.qa.INTest.Tests.LoginFailureTest@13eb8acf]" started-at="2022-12-28T19:20:44Z" name="vldLoginSuccess" finished-at="2022-12-28T19:20:45Z" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldLoginSuccess -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.INTest.Tests.LoginFailureTest@13eb8acf]" started-at="2022-12-28T19:20:45Z" name="tearDown" finished-at="2022-12-28T19:20:46Z" duration-ms="965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.INTest.Tests.LoginFailureTest -->
+      <class name="com.qa.INTest.Tests.DragAndDropTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.INTest.Tests.DragAndDropTest@4e718207]" started-at="2022-12-28T19:20:31Z" name="setup" finished-at="2022-12-28T19:20:34Z" duration-ms="2317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="vldDragAndDropTest()[pri:0, instance:com.qa.INTest.Tests.DragAndDropTest@4e718207]" started-at="2022-12-28T19:20:34Z" name="vldDragAndDropTest" finished-at="2022-12-28T19:20:34Z" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldDragAndDropTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.INTest.Tests.DragAndDropTest@4e718207]" started-at="2022-12-28T19:20:34Z" name="tearDown" finished-at="2022-12-28T19:20:35Z" duration-ms="944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.INTest.Tests.DragAndDropTest -->
+      <class name="com.qa.INTest.Tests.CheckboxesTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.INTest.Tests.CheckboxesTest@28ac3dc3]" started-at="2022-12-28T19:20:49Z" name="setup" finished-at="2022-12-28T19:20:52Z" duration-ms="2481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="vldCheckedboxes()[pri:1, instance:com.qa.INTest.Tests.CheckboxesTest@28ac3dc3]" started-at="2022-12-28T19:20:52Z" name="vldCheckedboxes" finished-at="2022-12-28T19:20:52Z" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldCheckedboxes -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.INTest.Tests.CheckboxesTest@28ac3dc3]" started-at="2022-12-28T19:20:52Z" name="tearDown" finished-at="2022-12-28T19:20:53Z" duration-ms="857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.INTest.Tests.CheckboxesTest@28ac3dc3]" started-at="2022-12-28T19:20:53Z" name="setup" finished-at="2022-12-28T19:20:55Z" duration-ms="2386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="vldUnCheckedboxes()[pri:2, instance:com.qa.INTest.Tests.CheckboxesTest@28ac3dc3]" started-at="2022-12-28T19:20:55Z" name="vldUnCheckedboxes" finished-at="2022-12-28T19:21:05Z" duration-ms="10235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldUnCheckedboxes -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.INTest.Tests.CheckboxesTest@28ac3dc3]" started-at="2022-12-28T19:21:05Z" name="tearDown" finished-at="2022-12-28T19:21:06Z" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.INTest.Tests.CheckboxesTest -->
+      <class name="com.qa.INTest.Tests.DynamicContentTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.INTest.Tests.DynamicContentTest@543c6f6d]" started-at="2022-12-28T19:20:39Z" name="setup" finished-at="2022-12-28T19:20:41Z" duration-ms="2532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="vldDynamicContentTest()[pri:0, instance:com.qa.INTest.Tests.DynamicContentTest@543c6f6d]" started-at="2022-12-28T19:20:41Z" name="vldDynamicContentTest" finished-at="2022-12-28T19:20:41Z" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldDynamicContentTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.INTest.Tests.DynamicContentTest@543c6f6d]" started-at="2022-12-28T19:20:41Z" name="tearDown" finished-at="2022-12-28T19:20:42Z" duration-ms="865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.INTest.Tests.DynamicContentTest -->
+      <class name="com.qa.INTest.Tests.DropDownTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.INTest.Tests.DropDownTest@1d371b2d]" started-at="2022-12-28T19:20:35Z" name="setup" finished-at="2022-12-28T19:20:37Z" duration-ms="2402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="vldDropDownTest()[pri:0, instance:com.qa.INTest.Tests.DropDownTest@1d371b2d]" started-at="2022-12-28T19:20:37Z" name="vldDropDownTest" finished-at="2022-12-28T19:20:38Z" duration-ms="580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldDropDownTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.INTest.Tests.DropDownTest@1d371b2d]" started-at="2022-12-28T19:20:38Z" name="tearDown" finished-at="2022-12-28T19:20:39Z" duration-ms="633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.INTest.Tests.DropDownTest -->
+      <class name="com.qa.INTest.Tests.ContextMenuTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.INTest.Tests.ContextMenuTest@32eebfca]" started-at="2022-12-28T19:20:27Z" name="setup" finished-at="2022-12-28T19:20:30Z" duration-ms="2678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="vldContextMenu()[pri:0, instance:com.qa.INTest.Tests.ContextMenuTest@32eebfca]" started-at="2022-12-28T19:20:30Z" name="vldContextMenu" finished-at="2022-12-28T19:20:30Z" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldContextMenu -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.INTest.Tests.ContextMenuTest@32eebfca]" started-at="2022-12-28T19:20:30Z" name="tearDown" finished-at="2022-12-28T19:20:31Z" duration-ms="955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.INTest.Tests.ContextMenuTest -->
+      <class name="com.qa.INTest.Tests.LoginSuccessTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.INTest.Tests.LoginSuccessTest@51c8530f]" started-at="2022-12-28T19:20:46Z" name="setup" finished-at="2022-12-28T19:20:48Z" duration-ms="2430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="vldLoginSuccess()[pri:0, instance:com.qa.INTest.Tests.LoginSuccessTest@51c8530f]" started-at="2022-12-28T19:20:48Z" name="vldLoginSuccess" finished-at="2022-12-28T19:20:48Z" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldLoginSuccess -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.INTest.Tests.LoginSuccessTest@51c8530f]" started-at="2022-12-28T19:20:48Z" name="tearDown" finished-at="2022-12-28T19:20:49Z" duration-ms="955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.INTest.Tests.LoginSuccessTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
